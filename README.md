@@ -33,4 +33,4 @@
  
  •	สามารถควบคุมและตรวจสอบการใช้พลังงานได้จากระยะไกลผ่านแอปพลิเคชัน
  
-https://kafka0414.github.io/project1/
+https://github.com/peebem/work_jpid
